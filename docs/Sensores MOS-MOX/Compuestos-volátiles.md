@@ -8,6 +8,19 @@
 | **Interacción química con el sensor MOS/MOX** | Alcohol primario + anillo de furano. Por analogía con el etanol, se oxidaría en la superficie. Reductor fuerte: se espera respuesta alta. | Aldehído reductor. Por analogía con el acetaldehído, reacciona con el O adsorbido y devuelve electrones al SnO₂. Se espera respuesta amplia en varios sensores. | Aldehído furánico como el furfural, con un metilo extra. Se espera respuesta parecida, pero a igual dilución llega menos vapor al sensor. | Éster: se espera adsorción/oxidación más débil que la de un alcohol o aldehído. Respuesta más baja y posiblemente más lenta. | Cetona: en SnO₂ las cetonas se adsorben más débil que los alcoholes (acetona vs. etanol). Se espera respuesta menor que alcohol y aldehído. |
 | **Estándares de calibración para detección** | Reactivo ≥98 %<br>Estándar en ASTM D5837 (HPLC) | Reactivo ≥99 %<br>Estándar en ASTM D5837 | Reactivo ≥99 %<br>Estándar en ASTM D5837 | Reactivo ≥97 %<br>Sin datos de confirmación. | Reactivo ≥99 %<br>Estándar en ASTM D5837<br>Sólido cerca de 30 °C. |
 
+Referencias
+1.	Parchem, Furfuryl alcohol (ficha técnica): https://www.parchem.com/api/get-pdf/furfuryl-alcohol-010090.pdf
+2.	Danish EPA (1999), Toxicological evaluation and limit values for… Furfural: https://www2.mst.dk/udgiv/publications/1999/87-7909-563-1/html/Furfural/kap01.htm
+3.	ChemicalBook, 5-Methyl furfural (propiedades): https://amp.chemicalbook.com/ChemicalProductProperty_EN_CB0735683.htm
+4.	Parchem, 2-Acetyl furan (ficha técnica): https://www.parchem.com/getpdf-2-acetyl-furan-003318.aspx
+5.	Parchem, Furfuryl acetate (ficha técnica): https://parchem.com/api/get-pdf/furfuryl-acetate-003405.pdf
+6.	Figaro, TGS2602 (hoja de datos): https://www.figarosensor.com/product/docs/TGS2602-B00%20%281120%29.pdf
+7.	Figaro, TGS2603 (hoja de datos): https://www.figarosensor.com/product/docs/TGS2603%20%280121%29.pdf
+8.	Figaro, TGS2620 (hoja de datos, copia alojada en Cornell): https://people.ece.cornell.edu/land/courses/ece4760/FinalProjects/s2004/dig4/2620.pdf
+9.	Chen et al. (2025), Foods 14(18), 3192, compuestos clave del aroma del café (GC-O, OAV, umbrales en agua): https://www.mdpi.com/2304-8158/14/18/3192
+10.	Shimadzu, nota de aplicación ASTM D5837 (preparación de estándares): https://www.ssi.shimadzu.com/sites/ssi.shimadzu.com/files/pim/pim_document_file/ssi/others/16092/ASTM-D5837-Furans-in-Transformer-Oil-by-HPLC.pdf
+
+
 | Rubro | Methylpyrazine | 2,5-Dimethylpyrazine | 2,6-Dimethylpyrazine | Trimethylpyrazine | 2-Ethyl-6-methylpyrazine |
 | --- | --- | --- | --- | --- | --- |
 | **Propiedades fisicoquímicas clave para e-nose** | Ebullición 135–137 °C<br>P. vapor ≈9.7 mmHg a 25 °C (est.)<br>logP 0.21; miscible en agua<br>La más volátil y abundante de las cinco (35–92 mg/kg en café molido) | Ebullición 154–156 °C<br>P. vapor 1.5 mmHg a 25 °C (est.: 4.0)<br>logP 0.63; soluble en agua (≈32 g/L)<br>Funde a 15 °C<br>10–28 mg/kg en café molido | Ebullición 154–155 °C<br>P. vapor ≈3.9 mmHg a 25 °C (est. como líquido)<br>logP 0.54; soluble en agua (≈38 g/L)<br>Funde a 47–48 °C: sólido a temperatura ambiente<br>10–30 mg/kg en café molido | Ebullición 171–172 °C<br>P. vapor ≈1.7 mmHg a 25 °C (est.)<br>logP 0.95; soluble en agua (≈15 g/L)<br>7.ª pirazina más abundante en café | Ebullición 170–171 °C<br>P. vapor ≈2.0 mmHg a 25 °C (est.)<br>logP ≈1.0–1.2; soluble en agua (≈4.9 g/L, est.)<br>5.ª pirazina más abundante en café |
