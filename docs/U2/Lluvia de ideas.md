@@ -23,3 +23,28 @@
 * Integración de los datos de la HS-SPME/GC-MS, la E-NOSE y los datos obtenidos de los catadores.
 * Integración de todos los datos a la IA.
 
+# RESULTADOS ESPERADOS
+1. Establecimiento de la relación entre la composición volátil y los fingerprints quimiosensoriales
+   del café tostado.
+2. Identificación de las relaciones entre la información química y quimiosensorial del café tostado
+   y sus características sensoriales en taza.
+3. Desarrollo de modelos predictivos de parámetros de calidad sensorial a partir de los fingerprints
+   quimiosensoriales.
+4. Validación de la capacidad predictiva de la E-nose frente a muestras independientes.
+5. Generación de un modelo integrador entre composición volátil, fingerprint quimiosensorial y
+   calidad sensorial.
+6. Establecimiento de bases científicas y tecnológicas para una plataforma de evaluación rápida del
+   café tostado.
+
+# PRODUCTOS DERIVADOS DEL PROYECTO
+1. Dos artículos científicos derivados de los principales resultados del proyecto, que serán
+   sometidos a revistas internacionales arbitradas e indexadas en el Journal Citation Reports (JCR).
+2. Un artículo de divulgación científica.
+3. Una ponencia en un congreso científico, en la que se presentarán resultados derivados del
+   desarrollo y validación de la E-nose y/o de la integración de la información química,
+   quimiosensorial y sensorial.
+4. Una conferencia dirigida a público no especializado, orientada a divulgar la importancia de la
+   química del aroma, el análisis sensorial y las nuevas tecnologías basadas en sensores e
+   inteligencia artificial para el estudio y evaluación de la calidad del café.
+5. Una tesis de licenciatura, desarrollada en el marco del proyecto y vinculada con alguno de sus
+   componentes experimentales, analíticos o tecnológicos.
