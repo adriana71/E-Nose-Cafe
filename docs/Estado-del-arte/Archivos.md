@@ -1,6 +1,6 @@
-* Relevancia Máxima
+## Relevancia Máxima
 
-## 1. Evaluation of spontaneous fermentation impact on the physicochemical properties and sensory profile of green and roasted arabica coffee by digital technologies
+ 1. Evaluation of spontaneous fermentation impact on the physicochemical properties and sensory profile of green and roasted arabica coffee by digital technologies
 
 ```mermaid
 mindmap
